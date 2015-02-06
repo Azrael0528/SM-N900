@@ -1,0 +1,3 @@
+az_AZ-ak-cur.lite.res	6b959871f32ef9de818f7ab3f76f5432	506466
+az_AZ.lang	e9886560f23a1774abc23e8b58472958	3846
+az_AZ-lk-text.lite.res	0c5f3f895971a913c8a8e1ae2610c1be	3712131
